@@ -161,3 +161,9 @@ Many of these commands, especially those related to managing services, monitorin
 ### **4. Debugging and Validation**
 - **Permissions**: Ensure that the scripts are executable using `chmod +x sysopctl.sh`.
 - **Error Handling**: If any command fails, check the specific function script for that command (e.g., `functions/service.sh`) and ensure you are passing valid inputs.
+### **4. Screenshot**
+ ![Help](screenshot/01png.jpg)
+  ![Help](screenshot/02png.jpg)
+![Manual](screenshot/03.png.jpg)
+![Help](screenshot/04png.jpg)
+![Help](screenshot/05png.png)
